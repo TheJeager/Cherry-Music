@@ -4,11 +4,11 @@ asyncio
 beautifulsoup4
 dnspython
 ffmpeg-python
-gitpython
 hachoir
-httpx[http2]
+httpx[http2]>=0.28.1
 motor
-pillow
+pymongo
+pillow>=12.0.0
 psutil
 py-tgcalls==2.2.8
 ntgcalls>=2.0.6
@@ -17,9 +17,10 @@ pyrofork
 python-dotenv
 pyyaml
 requests
+kurigram>=2.2.14
 speedtest-cli
 spotipy
 tgcrypto==1.2.5
 unidecode
-yt-dlp==2025.12.08
+yt-dlp[default]==2025.12.8
 py-yt-search
