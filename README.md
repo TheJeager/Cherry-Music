@@ -9,14 +9,14 @@ Cherry Is A Telegram Music Bot Built For Simplicity And Powerful Streaming.
 
 <p align="center">
   <!-- GitHub Stats -->
-  <a href="https://github.com/TheJeager/Cherry-Music/stargazers">
+  <a href="https://github.com/TheJeager/CherryMusic/stargazers">
     <img src="https://img.shields.io/github/stars/TheJeager/Cherry-Music?style=plastic&color=FFD700&logo=github" alt="Stars"/>
   </a>
-  <a href="https://github.com/TheJeager/Cherry-Music/network/members">
-    <img src="https://img.shields.io/github/forks/TheJeager/Cherry-Music?style=plastic&color=00BFFF&logo=github" alt="Forks"/>
+  <a href="https://github.com/TheJeager/CherryMusic/network/members">
+    <img src="https://img.shields.io/github/forks/TheJeager/CherryMusic?style=plastic&color=00BFFF&logo=github" alt="Forks"/>
   </a>
-  <img src="https://img.shields.io/github/repo-size/TheJeager/Cherry-Music?style=plastic&color=8A2BE2&logo=github" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/last-commit/TheJeager/Cherry-Music?style=plastic&color=32CD32" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/repo-size/TheJeager/CherryMusic?style=plastic&color=8A2BE2&logo=github" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/TheJeager/CherryMusic?style=plastic&color=32CD32" alt="Last Commit"/>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Cherry Is A Telegram Music Bot Built For Simplicity And Powerful Streaming.
 ### 🚀 Deploy Instantly
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/TheJeager/Cherry-Music">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/TheJeager/CherryMusic">
     <img src="https://img.shields.io/badge/Deploy%20to%20Heroku-7B2CBF?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
 </p>
